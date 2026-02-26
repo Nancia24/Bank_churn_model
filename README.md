@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project builds a machine learning model to predict bank customer churn - identifying which customers are likely to exit or leave the bank. By identifying at-risk customers early, the bank can implement targeted retention strategies and improve customer lifetime value.
+This project builds a machine learning model to predict bank customer churn, identifying which customers are likely to exit or leave the bank. By identifying at-risk customers early, the bank can implement targeted retention strategies and improve customer lifetime value.
 
 The model combines both **microeconomic factors** (customer-level data) and **macroeconomic indicators** (broader financial environment) to provide a comprehensive understanding of churn risk.
 
@@ -135,4 +135,5 @@ Potential enhancements to the model:
 
 Nancia Mwaramba
  
+
 
