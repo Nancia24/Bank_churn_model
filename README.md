@@ -134,7 +134,5 @@ Potential enhancements to the model:
 ## Author
 
 Nancia Mwaramba
+ 
 
-## License
-
-[Add your license information here]
